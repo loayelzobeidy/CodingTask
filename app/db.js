@@ -10,8 +10,9 @@ exports.connect = function(cb) {
     		console.log(err);
     	else
     		console.log("Connected to db");
+
     	DB = db.db('sercretmessages');
-        cb(err,db);
+      cb(err,db);
     });
 }
 
