@@ -8,8 +8,10 @@ This Task consists of three parts
 
   First the message insertion with a certain location the api for this 'api/messages/newmessage'
   To retrive these message the required api is 'api/messages/searchformessage/:longitude/:latitude'
+
   Second the messages within a raduis of 100 km retrieval the required api is
   'api/messages/inrange/:longitude/:latitude'
+  
   Finaly to get the closest node  to a certain location, the required  api is
   'api/messages/closestnode/:longitude/:latitude'
 
@@ -31,7 +33,7 @@ Installation
   To install Nodejs run in the ubuntu terminal 'sudo apt-get install nodejs'
 
   To install npm(Node package manager) run in the ubuntu terminal 'sudo apt-get install npm'
-  
+
   To install all the Prerequisites run in the folder project 'sudo npm install'
 
 Booting the server
