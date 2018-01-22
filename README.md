@@ -11,7 +11,7 @@ This Task consists of three parts
 
   Second the messages within a raduis of 100 km retrieval the required api is
   'api/messages/inrange/:longitude/:latitude'
-  
+
   Finaly to get the closest node  to a certain location, the required  api is
   'api/messages/closestnode/:longitude/:latitude'
 
@@ -19,10 +19,10 @@ You will need
 
   A Laptop with a bash shell (Unix bases OS  with ubuntu terminal)
   A modern browser e.g. latest google chrome
-  Internet
-  NodeJS
-  Git
-  MongoDB
+  Internet,
+  NodeJS,
+  Git,
+  MongoDB,
   Text Editor such as Atom
 
 
