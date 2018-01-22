@@ -27,8 +27,11 @@ You will need
 Installation
 
   To install MongDB run in the ubuntu terminal 'sudo apt-get install mongodb'
+
   To install Nodejs run in the ubuntu terminal 'sudo apt-get install nodejs'
+
   To install npm(Node package manager) run in the ubuntu terminal 'sudo apt-get install npm'
+  
   To install all the Prerequisites run in the folder project 'sudo npm install'
 
 Booting the server
